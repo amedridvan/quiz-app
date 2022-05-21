@@ -1,0 +1,15 @@
+.result {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 60vh;
+  text-align: center;
+}
+.title1{
+  text-transform: uppercase;
+  font-size: 8vw;
+  font-family: "Montserrat", sans-serif;
+  cursor:pointer;
+  color: rgb(88, 182, 51);
+  font-size: 80px;
+}
